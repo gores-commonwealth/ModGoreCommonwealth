@@ -1,0 +1,31 @@
+buildings = {
+
+	hydroeletric_dam = {
+		show_on_map = 6
+		base_cost = 14000
+		local_resources_coal = 15
+		refinery = yes
+		icon_frame = 26
+		value = 8
+		level_cap = {
+			state_max = 1
+		}
+	}
+	
+	bighydroeletric_dam = {
+		show_on_map = 6
+		base_cost = 50000
+		local_resources_coal = 110
+		refinery = yes
+		only_costal = yes
+		icon_frame = 25
+		value = 8
+		level_cap = {
+			state_max = 1
+		}
+	}
+
+
+
+
+}
