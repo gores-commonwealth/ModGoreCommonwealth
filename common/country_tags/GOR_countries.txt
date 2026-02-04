@@ -1,0 +1,1 @@
+GOR = "countries/gores.txt"

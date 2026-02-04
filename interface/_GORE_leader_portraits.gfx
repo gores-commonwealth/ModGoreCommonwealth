@@ -1,7 +1,11 @@
 spriteTypes = {
 
 	spriteType = {
-		name = "GFX_portrait_sub_character"
-		texturefile = "gfx_leaders/SOV/arthuviski_rheinheimirovich.dds"
+		name = "GFX_portrait_GOR_great_leader"
+		texturefile = "gfx/leaders/GOR/arthuviski_rheinheimirovich.tga"
+	}
+	spriteType = {
+		name = "GFX_portrait_GOR_sam_great_leader"
+		texturefile = "gfx/leaders/GOR/sam_great_leader.tga"
 	}
 }

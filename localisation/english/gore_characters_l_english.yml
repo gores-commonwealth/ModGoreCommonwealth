@@ -1,2 +1,10 @@
 l_english:
- sub_great_leader: "Arthuviski Rheinheimirovich"
+ # GORE Characters
+ GOR_great_leader:0 "Arthuviski Rheinheimirovich"
+ GOR_sam_great_leader:0 "Samuil Koba Volkov"
+ 
+ # Country names
+ GOR:0 "Gorean Union"
+ GOR_DEF:0 "Gorean Union"
+ GOR_ADJ:0 "Gorean"
+ GOR_neutrality:0 "Gorean Empire"
