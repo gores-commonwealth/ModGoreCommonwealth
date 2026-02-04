@@ -39,7 +39,7 @@ set_war_support = 0
 
 #COUNTRY LEADERS
 recruit_character = GOR_sam_great_leader
-#recruit_character = SOV_supreme_soviet #This is a fake character! Proper country leader role is added via focus
+
 
 #SOV_grigory_zinovyev -> Will be aligned with either left or right opposition via focus
 #SOV_lev_kamenev -> Will be aligned with either left or right opposition via focus
