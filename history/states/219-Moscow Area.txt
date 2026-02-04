@@ -6,7 +6,7 @@ state={
 	
 	state_category = megalopolis
 	resources={
-		steel = 16 # was: 28 -- nao fui eu que mudei isso eu so copiei o arquivo do base game
+		steel = 16 # was: 28
 		coal = 16 # initial distribution
 	}
 
