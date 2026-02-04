@@ -6,9 +6,9 @@ state = {
 
 	history = {
 
-		owner = GER
+		owner = GOR
 		add_core_of = GER
-		add_core_of = PRE
+		add_core_of = GOR
 		
 		victory_points = {
 			6332 10 # Königsberg

@@ -37,10 +37,10 @@ state = {
 
 		add_core_of = CZE
 		add_core_of = SLO
+		add_core_of = GOR
 
 		1939.3.14 = {
-			owner = SLO
-			controller = SLO
+			owner = CZE
 		}
 		
 	}

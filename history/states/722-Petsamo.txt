@@ -6,7 +6,7 @@ state={
 	state_category = enclave
 
 	history={
-		owner = FIN
+		owner = GOR
 
 		victory_points = { #Petsamo
 			9140 1
@@ -19,7 +19,7 @@ state={
 			}
 		}
 		add_core_of = FIN
-		add_core_of = SMI
+		add_core_of = GOR
 
 	}
 	

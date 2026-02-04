@@ -12,10 +12,10 @@ state = {
 
 	history = {
 
-		owner = GER
+		owner = POL
 		add_core_of = GER
 		add_core_of = SIL
-		add_core_of = PRE
+		add_core_of = POL
 
 		victory_points = {
 			11467 5 # Gleiwitz

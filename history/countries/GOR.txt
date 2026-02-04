@@ -37,6 +37,12 @@ set_research_slots = 5
 set_stability = 0.13
 set_war_support = 0
 
+puppet = POL
+puppet = CZE
+puppet = HUN
+puppet = ROM
+puppet = BUL
+
 #COUNTRY LEADERS
 recruit_character = GOR_sam_great_leader
 #recruit_character = SOV_supreme_soviet #This is a fake character! Proper country leader role is added via focus

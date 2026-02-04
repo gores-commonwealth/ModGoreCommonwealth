@@ -6,7 +6,7 @@ state = {
 	state_category = enclave
 	
 	history = {	
-		owner = FIN
+		owner = GOR
 
 		buildings = {
 			infrastructure = 1 
@@ -14,7 +14,7 @@ state = {
 
 		add_core_of = FIN
 		add_core_of = KAR
-		add_core_of = SMI
+		add_core_of = GOR
 		
 		victory_points = { #Salla
 			197 1
