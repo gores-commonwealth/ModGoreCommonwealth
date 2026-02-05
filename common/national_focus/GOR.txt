@@ -253,5 +253,5 @@
 		completion_reward = {
 			
 		}
-	}
+	}s
 }	
