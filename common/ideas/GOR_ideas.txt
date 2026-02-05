@@ -1,0 +1,13 @@
+ideas = {
+	country = {
+		GOR_sam_idea_1 = {
+			picture = PLACEHOLDER_idea_icon
+			removal_cost = -1
+			modifier = {
+				supply_node_range = 0.25
+				supply_combat_penalties_on_core_factor = -0.50
+				production_speed_naval_supply_hub_factor = 0.75
+			}
+		}
+	}
+}

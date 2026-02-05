@@ -13,7 +13,7 @@
 	focus = {
 		id = GOR_sam_1
 		icon = GFX_goal_generic_political_reform
-		x = 12
+		x = 20
 		y = 0
 		cost = 10
 		completion_reward = {
@@ -41,7 +41,7 @@
 		prerequisite = { focus = GOR_sam_1 }
 		relative_position_id = GOR_sam_1
 		completion_reward = {
-			
+			add_ideas = {GOR_sam_idea_1}
 		}
     } 
 	focus = {
@@ -53,7 +53,16 @@
 		prerequisite = { focus = GOR_sam_1 }
 		relative_position_id = GOR_sam_1
 		completion_reward = {
-			
+			create_corps_commander = {
+			name = "Arthuviski Rheinheimirovich"
+			picture = "arthuviski_rheinheimirovich.tga"
+			traits = { infantry_leader }
+			skill = 9
+			attack_skill = 9
+			defense_skill = 7
+			planning_skill = 12
+			logistics_skill = 5
+		    }
 		}
     } 
 	focus = {
@@ -137,7 +146,112 @@
 		prerequisite = { focus = GOR_sam_4 }
 		relative_position_id = GOR_sam_4
 		completion_reward = {
+		}
+    } 
+	focus = {
+		id = GOR_sam_12
+		icon = GFX_goal_generic_construct_civilian
+		x = 0
+		y = 1
+		cost = 5
+		prerequisite = { focus = GOR_sam_2 }
+		relative_position_id = GOR_sam_2
+		completion_reward = {
+		}
+    }
+	focus = {
+		id = GOR_sam_13
+		icon = GFX_goal_generic_construct_civilian
+		x = 0
+		y = 1
+		cost = 5
+		prerequisite = { focus = GOR_sam_12 }
+		relative_position_id = GOR_sam_12
+		completion_reward = {
+		}
+    }
+	focus = {
+		id = GOR_sam_14
+		icon = GFX_goal_generic_construct_civilian
+		x = 0
+		y = 1
+		cost = 5
+		prerequisite = { focus = GOR_sam_13 }
+		relative_position_id = GOR_sam_13
+		completion_reward = {
+		}
+    }
+	focus = {
+		id = GOR_sam_15
+		icon = GFX_goal_generic_construct_civilian
+		x = 0
+		y = 2
+		cost = 5
+		prerequisite = { focus = GOR_sam_14 }
+		relative_position_id = GOR_sam_14
+		completion_reward = {
+		}
+    }
+	focus = {
+		id = GOR_sam_16
+		icon = GFX_goal_generic_construct_civilian
+		x = 0
+		y = 1
+		cost = 5
+		prerequisite = { focus = GOR_sam_10}
+		prerequisite = { focus = GOR_sam_11 }
+		prerequisite = { focus = GOR_sam_9 }
+		relative_position_id = GOR_sam_11
+		completion_reward = {
+		}
+    } 
+	focus = {
+		id = GOR_sam_17
+		icon = GFX_goal_generic_construct_civilian
+		x = 0
+		y = 1
+		cost = 5
+		prerequisite = { focus = GOR_sam_7 }
+		relative_position_id = GOR_sam_7
+		completion_reward = {
 			
 		}
     } 
+	focus = {
+		id = GOR_sam_18
+		icon = GFX_goal_generic_construct_civilian
+		x = 0
+		y = 1
+		cost = 5
+		prerequisite = { focus = GOR_sam_8 }
+		relative_position_id = GOR_sam_8
+		completion_reward = {
+			
+		}
+    } 
+	focus = {
+		id = GOR_sam_19
+		icon = GFX_goal_generic_construct_civilian
+		x = 1
+		y = 1
+		cost = 5
+		prerequisite = { focus = GOR_sam_17 }
+		prerequisite = { focus = GOR_sam_18 }
+		relative_position_id = GOR_sam_17
+		completion_reward = {
+			
+		}
+	}
+	focus = {
+		id = GOR_sam_20
+		icon = GFX_goal_generic_construct_civilian
+		x = 0
+		y = 1
+		cost = 5
+		prerequisite = { focus = GOR_sam_15 }
+		relative_position_id = GOR_sam_15
+		completion_reward = {
+			
+		}
+	}
 }	

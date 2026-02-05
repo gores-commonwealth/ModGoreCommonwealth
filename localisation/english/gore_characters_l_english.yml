@@ -8,3 +8,6 @@
  GOR_DEF:0 "Gorean Union"
  GOR_ADJ:0 "Gorean"
  GOR_neutrality:0 "Gorean Empire"
+
+ # ideas larp
+ GOR_idea_1:0 "Reorganized Railroads"
