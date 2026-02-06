@@ -12,6 +12,8 @@ state = {
 
 		buildings = {
 			infrastructure = 3 #was: 5
+			industrial_complex = 2
+			arms_factory = 1
 
 			# Tsimlyanskoye Hydroelectric Station
 			#6490 = { dam = 1 }

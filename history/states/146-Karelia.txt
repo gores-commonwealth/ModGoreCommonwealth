@@ -11,8 +11,8 @@ state={
 		add_core_of = GOR
 		buildings = {
 			infrastructure = 3 #was: 5
-			industrial_complex = 2
-
+			industrial_complex = 3
+			arms_factory = 2
 			#Mannerheim Line
 			9100 = {
 				bunker = 2

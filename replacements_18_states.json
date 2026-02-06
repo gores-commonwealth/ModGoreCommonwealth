@@ -1,0 +1,92 @@
+[
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\834 - Balta.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\t\n\t\t\t\tinfrastructure = 2\n\t\t\t\t\n\t\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\t\n\t\t\t\tinfrastructure = 2\n\t\t\t\tindustrial_complex = 1\n\t\t\t\tarms_factory = 1\n\t\t\t\t\n\t\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\822 - Chukotka.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\823 - Karakalpakstan.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 2\n\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 2\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\876-Udachny.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\89-Krakow.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 3\n\t\t\tair_base = 3\n\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 3\n\t\t\tair_base = 3\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\882-Pavlodar.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 2\n\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 2\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\881-Karagandy.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\878-Khatangsky.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\880-Kotlas.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\879-Kargopol.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\t\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t\t\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\875-Chukchi Peninsulay.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\t13204 ={\n\t\t\t\tnaval_base = 1\n\t\t\t}\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t\t13204 ={\n\t\t\t\tnaval_base = 1\n\t\t\t}\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\877-Verkhoyansk.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\874-Magadan.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 1\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\91-Tarnopol.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 3\n\t\t\tindustrial_complex = 3\n\t\t\tair_base = 5\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 3\n\t\t\tindustrial_complex = 3\n\t\t\tair_base = 5\n\t\t\tarms_factory = 1\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\93-Volhynian.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 3\n\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 3\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\95-Nowogrodek.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 3\n\t\t\tair_base = 3\n\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 3\n\t\t\tair_base = 3\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\94-Polesie.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 2\n\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 2\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\n\t\t}"
+  },
+  {
+    "filePath": "c:\\Users\\Pichau\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\modgore\\history\\states\\96-Wilejka.txt",
+    "oldString": "\t\tbuildings = {\n\t\t\tinfrastructure = 2\n\t\t}",
+    "newString": "\t\tbuildings = {\n\t\t\tinfrastructure = 2\n\t\t\tindustrial_complex = 1\n\t\t\tarms_factory = 1\n\t\t}"
+  }
+]

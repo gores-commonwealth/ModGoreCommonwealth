@@ -15,6 +15,8 @@ state={
 		owner = GOR
 		buildings = {
 			infrastructure = 3 #was: 5
+			industrial_complex = 2
+			arms_factory = 1
 			9262 = {
 				naval_base = 1
 			}

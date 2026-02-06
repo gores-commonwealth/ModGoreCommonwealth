@@ -9,6 +9,8 @@ state = {
 		owner = GOR
 		buildings = {
 			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 2
 		}
 		add_core_of = GOR
 		add_core_of = FER
